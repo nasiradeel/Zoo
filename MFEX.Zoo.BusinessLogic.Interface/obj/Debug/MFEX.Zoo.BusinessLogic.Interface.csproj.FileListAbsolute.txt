@@ -1,0 +1,4 @@
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic.Interface\bin\Debug\MFEX.Zoo.BusinessLogic.Interface.dll
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic.Interface\bin\Debug\MFEX.Zoo.BusinessLogic.Interface.pdb
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic.Interface\obj\Debug\MFEX.Zoo.BusinessLogic.Interface.dll
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic.Interface\obj\Debug\MFEX.Zoo.BusinessLogic.Interface.pdb

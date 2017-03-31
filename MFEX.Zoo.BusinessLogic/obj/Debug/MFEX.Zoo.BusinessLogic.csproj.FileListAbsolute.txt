@@ -1,0 +1,9 @@
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\bin\Debug\MFEX.Zoo.BusinessLogic.dll
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\bin\Debug\MFEX.Zoo.BusinessLogic.pdb
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\bin\Debug\Autofac.dll
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\bin\Debug\MFEX.Zoo.BusinessLogic.Interface.dll
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\bin\Debug\MFEX.Zoo.BusinessLogic.Interface.pdb
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\bin\Debug\Autofac.xml
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\obj\Debug\MFEX.Zoo.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\obj\Debug\MFEX.Zoo.BusinessLogic.dll
+D:\MFEX.Zoo\MFEX.Zoo.BusinessLogic\obj\Debug\MFEX.Zoo.BusinessLogic.pdb

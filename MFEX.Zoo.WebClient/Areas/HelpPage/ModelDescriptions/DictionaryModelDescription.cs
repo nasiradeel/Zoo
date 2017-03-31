@@ -1,0 +1,6 @@
+namespace MFEX.Zoo.WebClient.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
